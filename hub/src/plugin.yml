@@ -1,0 +1,10 @@
+name: Hub
+version: "0.1"
+author: controls
+description: Plugin made for Disarm
+main: me.controls.disarm.hub.Hub
+
+commands:
+  fly:
+    usage: /<command>
+    description: fly
